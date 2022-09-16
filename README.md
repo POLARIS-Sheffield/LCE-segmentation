@@ -16,8 +16,11 @@ Paths
 The user must provide paths to folders containing the hyperpolarized gas and proton MRI scans and a path to the location to save the outputted segmentations.
 
 [HPGas]
+
 path_to_search = #path to hyperpolarized gas MRI scans
+
 [Proton]
+
 path_to_search = #path to proton MRI scans
 save_seg_dir = #path to output location
 
