@@ -35,4 +35,3 @@ Running inference
 The following command can be used to run inference by indicating the path to the configuration file:
 
 net_segment inference -c /path_to_config/config_inference.ini
-![image](https://user-images.githubusercontent.com/113671557/190603600-40f49455-5138-49fb-8abb-d1feb0809797.png)
