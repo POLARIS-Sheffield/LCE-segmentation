@@ -2,7 +2,7 @@
 
 Using the DL trained model
 
-The model was trained using the Niftynet framework (1); instructions are provided below to allow researchers to utilize the trained DL model. The instructions given here will largely follow the instructions given at https://github.com/NifTK/NiftyNet.
+The model was trained using the Niftynet framework; instructions are provided below to allow researchers to utilize the trained DL model. The instructions given here will largely follow the instructions given at https://github.com/NifTK/NiftyNet.
 
 Installation 
 
